@@ -1,0 +1,74 @@
+:root {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: linear-gradient(#E20074, black);
+    background-repeat: no-repeat;
+    height: 1850px;
+    scroll-behavior: smooth;
+}
+
+.text {
+    color: white;
+    font-size: 25px;
+}
+
+#heading {
+    font-size: 50px;
+    color: #E20074;
+    margin-bottom: -5px;
+    background-color: white;
+    padding: 0 10px;
+    border-radius: 10px;
+    opacity: 100%;
+    display: inline-block;
+}
+
+#head {
+    font-size: 30px;
+    color: #E20074;
+    background-color: white;
+    display: inline-block;
+    padding: 0 5px;
+    border-radius: 10px;
+}
+
+#underhead {
+    background-color: white;
+    border-radius: 5px;
+    color: #E20074;
+    padding: 0% 5px;
+    display: inline-block;
+}
+
+#button {
+    text-decoration: none;
+    color: white;
+    background-color: #E20074;
+    font-size: 20px;
+    padding: 5px 5px;
+    border-radius: 10px;
+    outline: 3px;
+    outline-color: #ffb8dd;
+    outline-style: solid;
+    transition: background-color 0.2s ease-in-out;
+}
+
+#button:hover {
+    background-color: #ffb8dd;
+    
+}
+
+.texts {
+    color: white;
+}
+
+#input {
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #E20074;
+    border-color: #ffb8dd;
+    border-style: solid;
+    border-width: 3px;
+    color: white;
+}
