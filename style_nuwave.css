@@ -4,6 +4,7 @@
     background-repeat: no-repeat;
     height: 1850px;
     scroll-behavior: smooth;
+    min-height: 100vh;
     background-size: cover;
 }
 
