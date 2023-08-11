@@ -4,6 +4,7 @@
     background-repeat: no-repeat;
     height: 1850px;
     scroll-behavior: smooth;
+    background-size: 100%;
 }
 
 .text {
